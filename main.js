@@ -17,6 +17,6 @@ function validate() {
     newGame();
     document.querySelector('#userValue').value = '';
   } else {
-    alert('Raspunsul este incorect. Mai incearca!!');
+    alert('Raspunsul este incorect. Mai incearca!');
   }
 }
